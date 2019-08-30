@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # The name of the project to deploy services into.
-PROJECT_NAME="mygcpproject-250315"
+PROJECT_NAME="noted-ability-250314"
 
 # Which default region should regional services use?
 PROJECT_REGION="us-central1"
